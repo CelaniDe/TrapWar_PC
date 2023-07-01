@@ -1,0 +1,9 @@
+PICKUP:
+	1) βάζω στον φάκελο pickup έναν φακελό με τις φωτογραφίες-α του 
+	2) Φτιάχνω την class του Pickup στο αρχείο Pickup.py 
+	3) ανανεώνω την class Map.py
+
+PLATFORM:
+	1) βάζω την φωτογραφία στον φάκελο platform
+	2) Φτιάχνω την class του Platform στο αρχείο Platform.py 
+	3) ανανεώνω την class Map.py
